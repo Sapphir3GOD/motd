@@ -1,0 +1,94 @@
+<html>
+
+<head>
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="Cache-Control" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
+    type="text/css">
+  <link href="https://raw.githubusercontent.com/Sapphir3GOD/motd/main/test.css" rel="stylesheet"
+    type="text/css">
+</head>
+
+<body>
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="text-center">
+            <b>[Слово Пацана]</b>
+            <span class="label label-danger">vk.com/slovopacanacs</span>
+          </h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="text-center" contenteditable="true">Контакты</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section text-center">
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-xs-3 col-md-4">
+          <a><i class="fa fa-4x fa-fw fa-vk"></i> </a>
+          <p>
+            <a href="vk.com/slovopacanacs">vk.com/slovopacanacs</a>
+          </p>
+        </div>
+        <div class="col-xs-3 text-center col-md-4">
+          <a><i class="fa fa-4x fa-fw fa-user"></i> </a>
+          <p>
+            <a href="t.me/sapphir3kun">t.me/sapphir3kun</a>
+          </p>
+        </div>
+        <div class="col-xs-3 text-center col-md-4">
+          <a><i class="-o fa fa-4x fa-fw fa-send hub"></i></a>
+          <p>
+            <a href="slovopacanacs16">slovopacanacs16</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="text-center" contenteditable="true">Наши сервера</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="media-list text-justify">
+            <li class="media">
+              <a class="pull-left" href="#"><i class="-o fa fa-4x fa-fw fa-lock"></i></a>
+              <div class="media-body">
+                <h4 class="media-heading">• [JB] Пацанская тюрьма [14+] •</h4>
+                <h4 class="media-heading text-success">62.233.46.63:27015</h4>
+                <p>Наш JAIL сервер с комфортной атмосферой, грамотными саймонами и лучшей администрацией</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>
